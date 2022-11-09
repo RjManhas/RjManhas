@@ -18,4 +18,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RjManhas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<details>
+<summary>My StackOverFlow Stats</summary>
+<!--All you need is a blank line-->
+
+    [![Rj Manhas StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16975011?layout=compact?theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
+</details>
