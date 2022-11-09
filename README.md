@@ -21,6 +21,7 @@
 <details>
 <summary>My StackOverFlow Stats</summary>
 <!--All you need is a blank line-->
-
-    [![Rj Manhas StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16975011?layout=compact?theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)
+    [![](https://github-readme-stackoverflow.vercel.app/?userID=?layout=compact?theme=dark
+?layout=compact?theme=dark)](https://stackoverflow.com/users/?layout=compact?theme=dark
+/rj-manhas)
 </details>
