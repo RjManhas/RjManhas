@@ -1,4 +1,4 @@
-[Header](./github-header-image (1).png)
+![Header](github-header-image (1).png)
 
 # 💫 About Me:
 🔭 I’m currently working on Skylinegg.com and in high school.<br>🌱 I’m currently learning c++.
